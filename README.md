@@ -6,10 +6,10 @@
 
 Instead of juggling long one-liner scripts and environment setup, WTF **wraps around tactical tools** and presents them in a clean, interactive way.
 
-💡 **Note from the Author**\
-The main reason I created this framework is to assist me in **CTFs (Capture The Flag challenges) and penetration testing simulations**, while also increasing my productivity and efficiency.
+💡 **Note:**\
+*The main reason I created this framework is to assist me in **CTFs (Capture The Flag challenges) and penetration testing simulations**, while also increasing my productivity and efficiency*.
 
-I am still in the **learning phase of penetration testing** and not yet a professional in the field, so this project is a **work in progress**. Some features may change or be removed as I gain more knowledge, and better features will be added along the way. This is both a **tool for practice** and a **concept I am continuously improving** as I grow in cybersecurity.
+*I am still in the **learning phase of penetration testing** and not yet a professional in the field, so this project is a **work in progress**. Some features may change or be removed as I gain more knowledge, and better features will be added along the way. This is both a **tool for practice** and a **concept I am continuously improving** as I grow in cybersecurity.*
 
 –– 
 
