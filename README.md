@@ -121,20 +121,11 @@ python3 mpsa/mpsa.py --search "*.conf" --regex "password"
 ## 🤝 Contributing
 
 Contributions are welcome! Since this framework is also part of my **learning journey in penetration testing**, I’m open to feedback, corrections, and suggestions.
-***
-## 🙏 Credits
-
-* [RustScan](https://github.com/RustScan/RustScan)
-
-* [SecLists](https://github.com/danielmiessler/SecLists)
-
-* [Docker](https://www.docker.com/)
 
 * Inspired by real-world pentesting frustrations and CTF practice 🕵️‍♂️
 
 ***
-
-## 🙌 Special Thanks
+## 🙌 Special Thanks and Credits To:
 
 I would like to give a huge **thank you** to the developers and communities behind:
 
