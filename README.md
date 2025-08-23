@@ -17,7 +17,7 @@ Instead of juggling long one-liner scripts and environment setups, WTF **wraps a
 
 * 🧩 **Modular Bash Launcher**: one framework, multiple tools.
 
-* [⚡ **RustScan Wrapper**: requires knowledge of RustScan + Nmap flags and Switches.]()
+* [⚡ **RustScan Wrapper**: requires knowledge of RustScan + Nmap flags and Switches.](docs/WTF-README.md)
 
 * 🔍 **MPSA (Meezok Pentester Search Assistant)** : advanced file/wordlist search (regex, wildcards).
 
