@@ -1,0 +1,2 @@
+FROM rustscan/rustscan:alpine
+# you can add extras here if needed
