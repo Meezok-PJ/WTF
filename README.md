@@ -27,19 +27,6 @@ Instead of juggling long one-liner scripts and environment setups, WTF **wraps a
 
 ---
 
-## 🏗️ Architecture
-
-```text
-WTF/
-├── wtf.sh             # Main launcher
-├── wtf_lib.sh         # Helper library
-├── rustscan_wrapper.sh # Rustscan Docker intaiter
-├── mpsa/manager.sh    # File search assistant
-├── kali/manager.sh    # Kali management scripts
-├── logs/              # Central + per-tool logs
-└── docs/              # Usage documentation
-```
-
 ---
 
 ## ⚙️ Installation
