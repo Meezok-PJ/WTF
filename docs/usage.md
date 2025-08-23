@@ -5,10 +5,6 @@
 2. Enter targets and optional flags.
 3. Provide Nmap flags after `--` to pass through.
 
-## Exegol
-- Install wrapper (`pipx install exegol`) via menu.
-- Start a workspace container with a chosen image (e.g., `full`).
-
 ## MPSA
 1. Build image once.
 2. Run it; interactive Python TUI launches inside the container.
