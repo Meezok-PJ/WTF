@@ -60,7 +60,7 @@ WTF/
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/WTF.git
+git clone https://github.com/Meezok-PJ/WTF.git
 cd WTF
 
 # Make scripts executable
@@ -167,13 +167,6 @@ I would like to give a huge **thank you** to the developers and communities behi
 Thanks to their amazing work, **WTF (Wrapper Tactical Framework)** became a true **powerhouse for productivity and efficiency** in pentesting simulations and CTF practice. 🚀
 
 ***
-
-✅ Now your README has **purpose, honesty, professionalism, and gratitude** — perfect for GitHub.
-
-Do you also want me to add a **Roadmap section** (planned features + improvements), so contributors and users can see where the project is heading?
-
-
-
 
 ## ⚠️ Limitations
 
