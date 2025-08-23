@@ -2,9 +2,9 @@
 
 ## 📖 Overview
 
-**WTF (Wrapper Tactical Framework)** is a modular, Bash-based launcher designed to make penetration testers and sysadmins more **productive, user-friendly, and efficient**.
+**WTF (Wrapper Tactical Framework)** is a modular, Bash-based launcher designed to make penetration testers to be more **productive, user-friendly, and efficient**.
 
-Instead of juggling long one-liner scripts and environment setup, WTF **wraps around tactical tools** and presents them in a clean, interactive way.
+Instead of juggling long one-liner scripts and environment setups, WTF **wraps around tactical tools** and presents them in a clean, interactive way.
 
 💡 **Note:**\
 *The main reason I created this framework is to assist me in **CTFs (Capture The Flag challenges) and penetration testing simulations**, while also increasing my productivity and efficiency*.
