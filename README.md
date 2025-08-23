@@ -15,17 +15,15 @@ Instead of juggling long one-liner scripts and environment setup, WTF **wraps ar
 
 ## 🔑 Features
 
-* 🧩 **Modular Bash Launcher** -> one framework, multiple tools.
+* 🧩 **Modular Bash Launcher**: one framework, multiple tools.
 
-* ⚡ **RustScan Wrapper** -> requires knowledge of RustScan + Nmap flags and Switches.
+* ⚡ **RustScan Wrapper**: requires knowledge of RustScan + Nmap flags and Switches.
 
-* 🔍 **MPSA (Meezok Pentester Search Assistant)** -> advanced file/wordlist search (regex, wildcards).
+* 🔍 **MPSA (Meezok Pentester Search Assistant)** : advanced file/wordlist search (regex, wildcards).
 
-* 🐳 **AutomatedKali-Light Sandbox** -> lightweight Dockerized Kali for tool testing.
+* 🐳 **AutomatedKali-Light Sandbox** : lightweight Dockerized Kali for tool testing.
 
-* 📜 **Unified Logging** -> JSON lines written to `logs/`, easy to parse.
-
-* 🖥️ **Cross-Shell Support** -> works on **Bash** and **Zsh**.
+* 📜 **Unified Logging** : JSON lines written to `logs/`, easy to parse.
 
 ---
 
