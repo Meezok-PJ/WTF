@@ -15,17 +15,17 @@ I am still in the **learning phase of penetration testing** and not yet a profes
 
 ## 🔑 Features
 
-* 🧩 **Modular Bash Launcher** — one framework, multiple tools.
+* 🧩 **Modular Bash Launcher** --> one framework, multiple tools.
 
-* ⚡ **RustScan Wrapper** — requires knowledge of RustScan + Nmap flags.
+* ⚡ **RustScan Wrapper** --> requires knowledge of RustScan + Nmap flags and Switches.
 
-* 🔍 **MPSA (Meezok Pentester Search Assistant)** — advanced file/wordlist search (regex, wildcards).
+* 🔍 **MPSA (Meezok Pentester Search Assistant)** --> advanced file/wordlist search (regex, wildcards).
 
-* 🐳 **Kali-Light Sandbox** — lightweight Dockerized Kali for tool testing.
+* 🐳 **AutomatedKali-Light Sandbox** --> lightweight Dockerized Kali for tool testing.
 
-* 📜 **Unified Logging** — JSON lines written to `logs/`, easy to parse.
+* 📜 **Unified Logging** --> JSON lines written to `logs/`, easy to parse.
 
-* 🖥️ **Cross-Shell Support** — works on **Bash** and **Zsh**.
+* 🖥️ **Cross-Shell Support** --> works on **Bash** and **Zsh**.
 
 ---
 
@@ -121,27 +121,7 @@ python3 mpsa/mpsa.py --search "*.conf" --regex "password"
 ## 🤝 Contributing
 
 Contributions are welcome! Since this framework is also part of my **learning journey in penetration testing**, I’m open to feedback, corrections, and suggestions.
-
-Please:
-
-1. Fork the repo
-
-2. Create a feature branch (`git checkout -b feature/my-feature`)
-
-3. Commit changes (`git commit -m "Add feature"`)
-
-4. Push to branch (`git push origin feature/my-feature`)
-
-5. Open a Pull Request 🚀
-
 ***
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](https://chatgpt.com/c/LICENSE) file for details.
-
-***
-
 ## 🙏 Credits
 
 * [RustScan](https://github.com/RustScan/RustScan)
