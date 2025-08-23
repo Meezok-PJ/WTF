@@ -125,13 +125,13 @@ Contributions are welcome! Since this framework is also part of my **learning jo
 
 I would like to give a huge **thank you** to the developers and communities behind:
 
-* 🐳 **[Docker](https://www.docker.com/)** — for making containerization simple, fast, and reliable.
+* 🐳 **[Docker](https://www.docker.com/)** : for making containerization simple, fast, and reliable.
 
-* 📂 **[SecLists](https://github.com/danielmiessler/SecLists)** — for providing an incredible resource of wordlists that power countless security projects.
+* 📂 **[SecLists](https://github.com/danielmiessler/SecLists)** : for providing an incredible resource of wordlists that power countless security projects.
 
-* ⚡ **[RustScan](https://github.com/RustScan/RustScan)** — for building one of the fastest and most efficient port scanners out there.
+* ⚡ **[RustScan](https://github.com/RustScan/RustScan)** : for building one of the fastest and most efficient port scanners out there.
 
-Thanks to their amazing work, **WTF (Wrapper Tactical Framework)** became a true **powerhouse for productivity and efficiency** in pentesting simulations and CTF practice. 🚀
+* Thanks to their amazing work, **WTF (Wrapper Tactical Framework)** became a true **powerhouse for productivity and efficiency** in pentesting simulations and CTF practice. 🚀
 
 ***
 
