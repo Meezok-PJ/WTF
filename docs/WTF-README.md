@@ -20,7 +20,7 @@ This is a step-by-step guide on how to run a scan using the RustScan module with
    Begin by running the main `wtf.sh` script. From the main menu, type `1` and press `Enter` to access the RustScan Wrapper.
 
 ![01-07-13-WTF-24-08-2025.png](WTF-assets/01-07-13-WTF-24-08-2025.png)
-----
+------
 ![01-17-40-WTF-24-08-2025.png](WTF-assets/01-17-40-WTF-24-08-2025.png)
 3. **Input Scan Parameters**
 
@@ -31,9 +31,9 @@ This is a step-by-step guide on how to run a scan using the RustScan module with
    * **Extra RustScan flags:** Any additional flags for RustScan itself (e.g., `-t 500` for a faster timeout).
 
    * **Nmap flags:** Flags to be passed through to Nmap for more detailed analysis (e.g., `-sC -sV` for default script and version detection).
-----
+------
   ![02-27-05-WTF-24-08-2025.png](WTF-assets/02-27-05-WTF-24-08-2025.png)
-----
+------
    * Once you have entered your parameters, the tool will ask if you want to use the latest image variant. Type `y` and press `Enter` to confirm, or just press `Enter` to use the default. Finally, press `Enter` one more time to run the scan.
 -----
    ![02-34-35-WTF-24-08-2025.png](WTF-assets/02-34-35-WTF-24-08-2025.png)
