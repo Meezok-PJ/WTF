@@ -79,7 +79,7 @@ To simplify your workflow, this feature automatically creates a convenient alias
 
 After the scan is complete, the output will be automatically saved to a log file in the logs/ directory. You can easily access this log file, which is named based on the target and timestamp, directly from the main wtf.sh menu.
 
-[4] help menu 
+## **Option [4] help menu** 
 
 ```bash
 -------------------------------------------------------------+
