@@ -20,7 +20,7 @@ This is a step-by-step guide on how to run a scan using the RustScan module with
    Begin by running the main `wtf.sh` script. From the main menu, type `1` and press `Enter` to access the RustScan Wrapper.
 ![01-07-13-WTF-24-08-2025.png](WTF-assets/01-07-13-WTF-24-08-2025.png)
 ---
-![01-17-40-WTF-24-08-2025.png](WTF/docs/WTF-assets/01-17-40-WTF-24-08-2025.png)
+![01-17-40-WTF-24-08-2025.png](WTF-assets/01-17-40-WTF-24-08-2025.png)
 3. **Input Scan Parameters**
 
    The tool will guide you through the required inputs for your scan in a user-friendly, interactive way. You'll be prompted to provide Four key parameters:
@@ -31,28 +31,32 @@ This is a step-by-step guide on how to run a scan using the RustScan module with
 
    * **Nmap flags:** Flags to be passed through to Nmap for more detailed analysis (e.g., `-sC -sV` for default script and version detection).
   ----
-  ![02-27-05-WTF-24-08-2025.png](docs/WTF-assets/02-27-05-WTF-24-08-2025.png)
+  ![02-27-05-WTF-24-08-2025.png](WTF-assets/02-27-05-WTF-24-08-2025.png)
   ----
    * Once you have entered your parameters, the tool will ask if you want to use the latest image variant. Type `y` and press `Enter` to confirm, or just press `Enter` to use the default. Finally, press `Enter` one more time to run the scan.
-
-   ![02-34-35-WTF-24-08-2025.png](WTF/docs/WTF-assets/02-34-35-WTF-24-08-2025.png)
-
+---
+   ![02-34-35-WTF-24-08-2025.png](WTF-assets/02-34-35-WTF-24-08-2025.png)
+---
 4. **Review and Access the Scan Log**
 
    * **Logging and Post-Scan Review**
 
   After the scan is complete, the output is automatically saved to a log file in the `logs/` directory. The log file follows the format: `rustscan_ip_date_time-24format.log`. For example: `rustscan_19216832_2025-08-24_02-34-33.log`.
   * Return Back to the WTF menu by choosing option `0`
-![02-42-55-WTF-24-08-2025.png](docs/WTF-assets/02-42-55-WTF-24-08-2025.png)
-* **View Scan Results**
+---
+![02-42-55-WTF-24-08-2025.png](WTF-assets/02-42-55-WTF-24-08-2025.png)
+---
+  * **View Scan Results**
 
   To view the scan results, you can use the `4` option in the menu. The tool will prompt you for the full path of the log file you wish to view. For easy access, you can copy the full log path (e.g., `/home/meezok/WTF/logs/rustscan_19216832_2025-08-24_02-34-33.log`) using `Ctrl+Shift+C` and paste it into the input field with `Ctrl+Shift+V`.
 
-   
-![03-16-43-WTF-24-08-2025.png](docs/WTF-assets/03-16-43-WTF-24-08-2025.png)
+---
+![03-16-43-WTF-24-08-2025.png](WTF-assets/03-16-43-WTF-24-08-2025.png)
+---
 * Result of rust scan inside the Log press `q` to quit :
- ![03-33-58-WTF-24-08-2025.png](docs/WTF-assets/03-33-58-WTF-24-08-2025.png)
-
+---
+![03-33-58-WTF-24-08-2025.png](WTF-assets/03-33-58-WTF-24-08-2025.png)
+---
 ***
 
 ### Core Features
