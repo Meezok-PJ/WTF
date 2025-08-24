@@ -18,9 +18,9 @@ This is a step-by-step guide on how to run a scan using the RustScan module with
 1. **Launch the Framework and Select the RustScan Option**
 
    Begin by running the main `wtf.sh` script. From the main menu, type `1` and press `Enter` to access the RustScan Wrapper.
-![01-07-13-WTF-24-08-2025.png](..\..\Finalized\WTF-images\01-07-13-WTF-24-08-2025.png)
+![01-07-13-WTF-24-08-2025.png](docs/WTF-assets/01-07-13-WTF-24-08-2025.png)
 ---
-![01-17-40-WTF-24-08-2025.png](..\..\Finalized\WTF-images\01-17-40-WTF-24-08-2025.png)
+![01-17-40-WTF-24-08-2025.png](docs/WTF-assets/01-17-40-WTF-24-08-2025.png)
 3. **Input Scan Parameters**
 
    The tool will guide you through the required inputs for your scan in a user-friendly, interactive way. You'll be prompted to provide Four key parameters:
