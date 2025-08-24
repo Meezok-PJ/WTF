@@ -64,6 +64,8 @@ cd ~/WTF
 ./wtf.sh
 ```
 ![01-00-18-WTF-24-08-2025.png](docs/WTF-assets/01-00-18-WTF-24-08-2025.png)
+---
+![01-02-25-WTF-24-08-2025.png](docs/WTF-assets/01-02-25-WTF-24-08-2025.png)
 ### Logs
 
 * Central log → `logs/wtf.log` (JSON, machine-parsable)
