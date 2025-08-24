@@ -19,7 +19,7 @@ This is a step-by-step guide on how to run a scan using the RustScan module with
 
    Begin by running the main `wtf.sh` script. From the main menu, type `1` and press `Enter` to access the RustScan Wrapper.
 ![01-07-13-WTF-24-08-2025.png](WTF-assets/01-07-13-WTF-24-08-2025.png)
----
+
 ![01-17-40-WTF-24-08-2025.png](WTF-assets/01-17-40-WTF-24-08-2025.png)
 3. **Input Scan Parameters**
 
