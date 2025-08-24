@@ -6,10 +6,11 @@
 
 Instead of juggling long one-liner scripts and environment setups, WTF **wraps around tactical tools** and presents them in a clean, interactive way.
 
-💡 **Note:**\
-*The main reason I created this framework is to assist me in **CTFs (Capture The Flag challenges) and penetration testing simulations**, while also increasing my productivity and efficiency*.
+💡 **Wy did i created this framework:**\
+>*Have you ever gotten tired of typing long, complicated commands just to use a tool or Better output? As a cybersecurity enthusiast, I found myself getting frustrated with repetitive setups. So, I built WTF as a simple, Bash-based launcher to make our lives easier.Think of it as a friendly, interactive framework that takes powerful tools and makes them more accessible. It’s designed to boost your efficiency and productivity, whether you’re a pro streamlining your workflow or a beginner taking on your first CTF challenge.WTF is a Framework that’s growing with me on my pentesting journey. It’s a work in progress, and I’m always adding new features and improvements.*
 
-*I am still in the **learning phase of penetration testing** and not yet a professional in the field, so this project is a **work in progress**. Some features may change or be removed as I gain more knowledge, and better features will be added along the way. This is both a **tool for practice** and a **concept I am continuously improving** as I grow in cybersecurity.*
+>*The main reason I created this framework is to assist me in **CTFs (Capture The Flag challenges) and penetration testing simulations**, while also increasing my productivity and efficiency*.
+>*I am still in the **learning phase of penetration testing** and not yet a professional in the field, so this project is a **work in progress**. Some features may change or be removed as I gain more knowledge, and better features will be added along the way. This is both a **tool for practice** and a **concept I am continuously improving** as I grow in cybersecurity.*
 
 –– 
 
