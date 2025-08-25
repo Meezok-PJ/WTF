@@ -21,7 +21,7 @@
 
 ### Project Philosophy
 
-For a deeper dive into the original project's architecture and design philosophy, check out the **[Automated Kali Docker Project](https://github.com/Meezok-PJ/Automated-Kali-Docker/blob/main/README.md)**. This is the foundation upon which the new, upgraded WTF tool was built.
+For a deeper dive into the original project's architecture and design philosophy, check out the **[Automated Kali Docker Project](https://github.com/Meezok-PJ/Automated-Kali-Docker/tree/main)**. This is the foundation upon which the new, upgraded WTF tool was built.
 
 >I built this tool out of sheer necessity. I was testing an OSINT framework one day, and it started installing a ridiculous number of dependencies and extra tools. I watched it create strange shortcuts and files all over my virtual machine. That's when it hit me: why not create a safe environment to run these tools? A place where they could install whatever they wanted without affecting my system's package dependencies or leaving digital clutter behind. This project is the result of that frustration — a clean, contained space where you can test to your heart's content, no cleanup required.
 
