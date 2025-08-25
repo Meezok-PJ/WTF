@@ -74,7 +74,7 @@ This sandbox is the perfect place to safely test and evaluate tools you find onl
 
 As you can see in the screenshot, you can debug a tool and watch how it behaves. In this example, a missing package (`bc`) .
 
-![9-39-59-WTF-25-08-2025.png](WTF-assets/9-39-59-WTF-25-08-2025.png)  
+![19-39-59-WTF-25-08-2025.png](WTF-assets/19-39-59-WTF-25-08-2025.png)  
 
 ---
 
@@ -88,7 +88,7 @@ As you can see in the screenshot, you can debug a tool and watch how it behaves.
 **`cd ~/sandox`**: this is the Mounted Volume where u can see Files u Copied.
 **`cd ~/kali_sandbox`**: main folder contains Dockerfile + docker-compose u can edit the container setting how ever u want.Also u can execute `manage.sh` that Enters manual mode of Accessing Container(old version of my Project)
 
-![20-43-49-WTF-25-08-2025.png](WTF-assets/0-43-49-WTF-25-08-2025.png)
+![20-43-49-WTF-25-08-2025.png](WTF-assets/20-43-49-WTF-25-08-2025.png)
 
 * The manual Mode:
 * *Tip: use an alias to easily access container read the Readme file it will assist how to setup pf the command to copy for your Alias*
@@ -118,11 +118,9 @@ Configuration:
 
 Additional Commands:
   * Manual container access: sudo docker exec -it kali_container bash
+````
 
-```
-
-
-* Lastly there is `README.md` if u want read about the **Project** and some **Tips**. 
-![21-00-29-WTF-25-08-2025.png](..\..\Finalized\WTF-images\21-00-29-WTF-25-08-2025.png)
+* Lastly there is `README.md` if u want read about the **Project** and some **Tips**.\
+  ![21-00-29-WTF-25-08-2025.png](https://chatgpt.com/c/WTF-assets/21-00-29-WTF-25-08-2025.png)
 
 ***
