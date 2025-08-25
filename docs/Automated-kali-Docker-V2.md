@@ -26,7 +26,7 @@ Getting this up and running is fast. The menu-driven approach handles all the he
 1. **WTF Main Menu:** Run the `./wtf.sh` script (with `sudo` if needed) and select the Kali Sandbox option.
 2. **Kali Menu:** Select **\[1] Build & start Kali (compose)**. The script will automatically build the image and create the necessary directories and persistent volume.
 ***
-![22-51-16-WTF-24-08-2025.png](docs/WTF-assets/22-51-16-WTF-24-08-2025.png)
+![22-51-16-WTF-24-08-2025.png](WTF-assets/22-51-16-WTF-24-08-2025.png)
 ***
 
 ### Project Philosophy
