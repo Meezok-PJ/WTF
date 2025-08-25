@@ -126,6 +126,6 @@ Additional Commands:
 ````
 
 * Lastly there is `README.md` if u want read about the **Project** and some **Tips**.\
-  ![21-00-29-WTF-25-08-2025.png](https://chatgpt.com/c/WTF-assets/21-00-29-WTF-25-08-2025.png)
+  ![21-00-29-WTF-25-08-2025.png](WTF-assets/21-00-29-WTF-25-08-2025.png)
 
 ***
