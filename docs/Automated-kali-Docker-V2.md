@@ -19,16 +19,6 @@
 
 ***
 
-### Installation & Usage
-
-Getting this up and running is fast. The menu-driven approach handles all the heavy lifting, but remember the **key requirement**: Since Kali environments often require privileges for network access and running Docker commands, you **must** run the main WTF script with `sudo` or as `root` for full functionality (especially when selecting option `[3] Access shell`).
-
-1. **WTF Main Menu:** Run the `./wtf.sh` script (with `sudo` if needed) and select the Kali Sandbox option.
-2. **Kali Menu:** Select **\[1] Build & start Kali (compose)**. The script will automatically build the image and create the necessary directories and persistent volume.
-***
-![22-51-16-WTF-24-08-2025.png](WTF-assets/22-51-16-WTF-24-08-2025.png)
-***
-
 ### Project Philosophy
 
 For a deeper dive into the original project's architecture and design philosophy, check out the **[Automated Kali Docker Project](test)**. This is the foundation upon which the new, upgraded WTF tool was built.
@@ -51,16 +41,16 @@ This sandbox is the perfect place to safely test and evaluate tools you find onl
 
 * **As you can see the project/tool will be saved in the home directory path for easy access later**
 ***
-![image](docs/WTF-assets/22-53-46-WTF-24-08-2025.png)  
+![image](WTF-assets/22-53-46-WTF-24-08-2025.png)  
 ***
 * **After starting Docker, the project is built in the specified directory with persistent storage, Dockerfile/yaml, and README**
 
 ***
-![image](docs/WTF-assets/22-57-43-WTF-24-08-2025.png)  
+![image](WTF-assets/22-57-43-WTF-24-08-2025.png)  
 
 ----
 
-![image](docs/WTF-assets/23-02-50-WTF-24-08-2025.png)  
+![image](WTF-assets/23-02-50-WTF-24-08-2025.png)  
 
 ***
 
@@ -68,37 +58,37 @@ This sandbox is the perfect place to safely test and evaluate tools you find onl
 
 3. **Access the Shell:** From the Kali menu, we select `[3] Access shell`.
 ***
-![image](docs/WTF-assets/23-04-43-WTF-24-08-2025.png)  
+![image](WTF-assets/23-04-43-WTF-24-08-2025.png)  
 ***
 * `[Output]` The terminal drops us into the isolated Kali environment. We are now inside the sandbox, ready to get to work. Type `exit` to return to the Kali menu.
 
- ![image](docs/WTF-assets/23-27-54-WTF-24-08-2025.png)  
+ ![image](WTF-assets/23-27-54-WTF-24-08-2025.png)  
 
 - Clone my tool to test a real-world scenario (like testing a random script you found on GitHub).
 
 ---
 
-![image](docs/WTF-assets/19-26-36-WTF-25-08-2025.png)  
+![image](WTF-assets/19-26-36-WTF-25-08-2025.png)  
 
 ---
 
 As you can see in the screenshot, you can debug a tool and watch how it behaves. In this example, a missing package (`bc`) .
 
-![image](docs/WTF-assets/9-39-59-WTF-25-08-2025.png)  
+![image](WTF-assets/9-39-59-WTF-25-08-2025.png)  
 
 ---
 
 5. **We navigate to the `/mnt` directory (our persistent volume)** this is connected to `~/sandbox` on the host. Use `/mnt` if you want to move files/folders from container → host machine.
 
 - create a file then copy it to the Presistant Volume`/mnt`
-![20-29-33-WTF-25-08-2025.png](docs/WTF-assets/20-29-33-WTF-25-08-2025.png)
+![20-29-33-WTF-25-08-2025.png](WTF-assets/20-29-33-WTF-25-08-2025.png)
 - exit from container by typing `exit`  then press `Enter`.
 ***
 - lets check what files my Automated Creates
 **`cd ~/sandox`**: this is the Mounted Volume where u can see Files u Copied.
 **`cd ~/kali_sandbox`**: main folder contains Dockerfile + docker-compose u can edit the container setting how ever u want.Also u can execute `manage.sh` that Enters manual mode of Accessing Container(old version of my Project)
 
-![20-43-49-WTF-25-08-2025.png](docs/WTF-assets/0-43-49-WTF-25-08-2025.png)
+![20-43-49-WTF-25-08-2025.png](WTF-assets/0-43-49-WTF-25-08-2025.png)
 
 * The manual Mode:
 * *Tip: use an alias to easily access container read the Readme file it will assist how to setup pf the command to copy for your Alias*
