@@ -1,6 +1,6 @@
 ## 👨‍💻 Automated Lightweight Kali Sandbox inside WTF
 ---
-* Let’s get straight to it. This tool is your personal, Script testing Kali sandbox, now baked directly into the **WTF (Wrapper Tactical Framework)**. It's a lightweight, isolated environment that lets you test whatever you want malicious scripts, custom tools, or anything from GitHub  without trashing your host system or messing up your VM's dependencies.
+* Let’s get straight to it. This tool is your personal, Script testing Kali sandbox, now Integrated directly into the **WTF (Wrapper Tactical Framework)**. It's a lightweight, isolated environment that lets you test whatever you want malicious scripts, custom tools, or anything from GitHub  without trashing your host system or messing up your VM's dependencies.
 
 * Forget clunky `docker` commands and manual installs. This sandbox is **menu-driven** and **user-friendly**, meaning once you exit the container shell, you're dropped right back into the menu. This makes management a breeze, letting you focus on the fun stuff.
 
@@ -96,7 +96,7 @@ As you can see in the screenshot, you can debug a tool and watch how it behaves.
 ![20-43-49-WTF-25-08-2025.png](WTF-assets/20-43-49-WTF-25-08-2025.png)
 
 * The manual Mode:
-* *Tip: use an alias to easily access container read the Readme file it will assist how to setup pf the command to copy for your Alias*
+* *Tip: use an alias to easily access container.*
 ```bash
  [~/kali_sandbox]
  meezok  sudo ./manage.sh                   
