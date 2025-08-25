@@ -11,7 +11,7 @@ Instead of juggling long one-liner scripts and environment setups, WTF **wraps a
 
 ***
 
-## 🔑 Features
+## 🔑 Features: CLICK-ON Links to view Usage/Documentation
 
 * 🧩 **Modular Bash Launcher**: one framework, multiple tools.
 
@@ -19,7 +19,7 @@ Instead of juggling long one-liner scripts and environment setups, WTF **wraps a
 
 * 🔍 **MPSA (Meezok Pentester Search Assistant)** : advanced file/wordlist search (regex, wildcards).
 
-[* 🐳 **AutomatedKali-Light Sandbox** : lightweight Dockerized Kali for tool testing.](docs/Automated-kali-Docker-V2.md)
+* 🐳 **AutomatedKali-Light Sandbox** : lightweight Dockerized Kali for tool testing.](docs/Automated-kali-Docker-V2.md)
 
 * 📜 **Unified Logging** : JSON lines written to `logs/`, easy to parse.
 
