@@ -6,7 +6,7 @@ Forget clunky `docker` commands and manual installs. This sandbox is **menu-driv
 
 ***
 
-![22-47-17-WTF-24-08-2025.png](docs/WTF-assets/22-47-17-WTF-24-08-2025.png)  
+![22-47-17-WTF-24-08-2025.png](WTF-assets/22-47-17-WTF-24-08-2025.png)  
 
 ***
 
