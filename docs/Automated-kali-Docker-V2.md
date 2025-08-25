@@ -36,16 +36,21 @@ This sandbox is the perfect place to safely test and evaluate tools you find onl
 1. **Start the Sandbox:** From the main WTF menu we select option \[3] to access the Kali Sandbox menu options, then choose `[1] Build & start Kali (compose)`.
 
 ***
+
 ![22-51-16-WTF-24-08-2025.png](WTF-assets/22-51-16-WTF-24-08-2025.png)  
+
 ***
 
 * **As you can see the project/tool will be saved in the home directory path for easy access later**
 ***
+
 ![22-53-46-WTF-24-08-2025.png](WTF-assets/22-53-46-WTF-24-08-2025.png)  
+
 ***
 * **After starting Docker, the project is built in the specified directory with persistent storage, Dockerfile/yaml, and README**
 
 ***
+
 ![22-57-43-WTF-24-08-2025.png](WTF-assets/22-57-43-WTF-24-08-2025.png)  
 
 ----
