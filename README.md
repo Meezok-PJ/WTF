@@ -24,9 +24,6 @@ Instead of juggling long one-liner scripts and environment setups, WTF **wraps a
 * 📜 **Unified Logging** : JSON lines written to `logs/`, easy to parse.
 
 ---
-
----
-
 ## ⚙️ Installation
 
 ### Requirements
