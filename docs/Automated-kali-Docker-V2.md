@@ -41,16 +41,16 @@ This sandbox is the perfect place to safely test and evaluate tools you find onl
 
 * **As you can see the project/tool will be saved in the home directory path for easy access later**
 ***
-![image](WTF-assets/22-53-46-WTF-24-08-2025.png)  
+![22-53-46-WTF-24-08-2025.png](WTF-assets/22-53-46-WTF-24-08-2025.png)  
 ***
 * **After starting Docker, the project is built in the specified directory with persistent storage, Dockerfile/yaml, and README**
 
 ***
-![image](WTF-assets/22-57-43-WTF-24-08-2025.png)  
+![22-57-43-WTF-24-08-2025.png](WTF-assets/22-57-43-WTF-24-08-2025.png)  
 
 ----
 
-![image](WTF-assets/23-02-50-WTF-24-08-2025.png)  
+![23-02-50-WTF-24-08-2025.png](WTF-assets/23-02-50-WTF-24-08-2025.png)  
 
 ***
 
@@ -58,23 +58,23 @@ This sandbox is the perfect place to safely test and evaluate tools you find onl
 
 3. **Access the Shell:** From the Kali menu, we select `[3] Access shell`.
 ***
-![image](WTF-assets/23-04-43-WTF-24-08-2025.png)  
+![23-04-43-WTF-24-08-2025.png](WTF-assets/23-04-43-WTF-24-08-2025.png)  
 ***
 * `[Output]` The terminal drops us into the isolated Kali environment. We are now inside the sandbox, ready to get to work. Type `exit` to return to the Kali menu.
 
- ![image](WTF-assets/23-27-54-WTF-24-08-2025.png)  
+ ![23-27-54-WTF-24-08-2025.png](WTF-assets/23-27-54-WTF-24-08-2025.png)  
 
 - Clone my tool to test a real-world scenario (like testing a random script you found on GitHub).
 
 ---
 
-![image](WTF-assets/19-26-36-WTF-25-08-2025.png)  
+![19-26-36-WTF-25-08-2025.png](WTF-assets/19-26-36-WTF-25-08-2025.png)  
 
 ---
 
 As you can see in the screenshot, you can debug a tool and watch how it behaves. In this example, a missing package (`bc`) .
 
-![image](WTF-assets/9-39-59-WTF-25-08-2025.png)  
+![9-39-59-WTF-25-08-2025.png](WTF-assets/9-39-59-WTF-25-08-2025.png)  
 
 ---
 
